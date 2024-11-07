@@ -33,8 +33,8 @@
 | 항목 | 내용 |
 |:---  |---  |
 | (1) 요구사항 정의 | ![ER 다이어그램 이미지](https://drive.google.com/uc?export=view&id=117bai2l82ptiyPdeHJTDC3dyx6704L5M) |
-| (2) 전체 시스템 구성 | ![전체 시스템 구조도 이미지](https://drive.google.com/uc?export=view&id=1eoGLbLor5QUJ-hX72EYL_bu-UwfKn0ea) 
-
+| (2) 전체 시스템 구성 |
+ ![전체 시스템 구조도 이미지](https://drive.google.com/uc?export=view&id=1eoGLbLor5QUJ-hX72EYL_bu-UwfKn0ea) 
 > 클라이언트
 * 회원가입 : 이메일, 닉네임, 학과를 비롯한 사용자 정보를 입력하여 사용자 데이터를 서버에 전송합니다.
 * 노트 저장 : 기술 블로그 등 퀴즈 생성의 source가 되는 웹사이트의 URL 링크를 입력하거나, 이미지, PDF 파일을 사용자 컴퓨터에서 업로드 하여 서버에게 전송할 수 있습니다. 이를 통해 서버가 해당 웹사이트 또는 파일의 텍스트를 추출하여 텍스트 데이터를 기반으로 한 노트를 생성할 수 있습니다.
